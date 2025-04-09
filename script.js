@@ -35,3 +35,16 @@ function showProductModal(productId) {
         });
 }
 
+
+function deleteFn(){
+    card.className = 'hidden'
+    localStorage.clear(card)
+
+
+}
+
+
+function deleteFn() {
+    card.classList.add("display:none");
+    
+}

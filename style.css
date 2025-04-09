@@ -8,6 +8,10 @@ button{
     cursor: pointer;
 }
 
+.hidden{
+    display: none;
+}
+
 .card-wrapper{
     width: 100%;
     max-width: 1200px;
